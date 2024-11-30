@@ -1,2 +1,2 @@
 ## Hello
-- Currently working on web dev basics 
+- I programming :D
