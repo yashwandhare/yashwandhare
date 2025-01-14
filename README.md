@@ -1,2 +1,2 @@
 ## Hello
-- I programming :D
+- I like computers and tech
