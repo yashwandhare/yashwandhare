@@ -21,7 +21,3 @@ I enjoy working on creative projects and exploring new tools and technologies.
 ![Lightroom](https://img.shields.io/badge/-Lightroom-blue?style=flat&logo=adobe-lightroom&logoColor=white)  
 
 ---
-
-## CONNECT WITH ME 🌐  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
