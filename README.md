@@ -14,6 +14,14 @@ I enjoy working on creative projects and exploring new tools and technologies.
 
 ---
 
+## TOOLS & SKILLS  
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)  
+![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)  
+
+---
+
 ## DESIGN TOOLS  
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma&logoColor=white)  
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=flat&logo=adobe-photoshop&logoColor=white)  
