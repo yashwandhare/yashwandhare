@@ -1,3 +1,3 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola&color=00FF00&font=IBM+Plex)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hola!&font=Borel&color=FFA500&size=40)
 
-Here are my projects , feel free to provide feedback.
+Thanks for visiting! Feel free to share any feedback. 
