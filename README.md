@@ -1,9 +1,11 @@
+<pre>
   ██╗  ██╗███████╗██╗     ██╗      ██████╗ 
   ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
   ███████║█████╗  ██║     ██║     ██║   ██║
   ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
   ██║  ██║███████╗███████╗███████╗╚██████╔╝
   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
+</pre>
 
 I'm Yash, a B.Tech student from India, working in Web Development and Machine Learning. I love turning ideas into polished experiences.
 
