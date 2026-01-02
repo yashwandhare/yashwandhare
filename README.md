@@ -1,5 +1,14 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hola!&font=Borel&color=FFA500&size=25)
+```
+  ██╗  ██╗███████╗██╗     ██╗      ██████╗ 
+  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+  ███████║█████╗  ██║     ██║     ██║   ██║
+  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+  ██║  ██║███████╗███████╗███████╗╚██████╔╝
+  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
+```
 
-[My Website](https://hikazuto.netlify.app/)
+I'm Yash, a B.Tech student from India, working in Web Development and Machine Learning. I love turning ideas into polished experiences.
+
+[🌐 Visit My Website](https://hikazuto.netlify.app/)
 
 Thanks for visiting! Feel free to share any feedback. 
